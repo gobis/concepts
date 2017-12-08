@@ -1,0 +1,37 @@
+long question_id|int categoty_ID | int subCategory_ID | String Question| int no_of_options | Options |  int no_of_answer | answer
+1|1|22|Who was the Viceroy at the time of Quit India Movement|4|Lord Irwin|Lord Mountbatten|Lord Wavell|Lord Linlithgow|1|Lord Linlithgow
+2|1|22|The country that shares longest border with India is |4|China|Bangladesh|Nepal|Pakistan|1|Bangladesh
+3|1|22|Deshbandhu is the title of|4| B. R. Ambedkar | C. R. Das|B. C. Pal|Rabindranath Tagore|1|C. R. Das
+4|1|22|The first woman to conquer Mount Everest twice is|4|Surja Lata Devi|Jyoti Randhawa|Santosh Yadav|Suma Shirur|1|Santosh Yadav
+5|3|6|select correct statement about java|4|Doesnt support operator overloading|Platform independent|has GC|Supports multiple inheritance|3|Doesnt support operator overloading|Platform independent|has GC
+6|1|1|4, 6, 9, 13, _|4|15|12|18|17|1|18
+7|1|1|8, 20, 36, 56, _|4|80|100|64|84|1|80
+8|1|1|11, 33, 55, 77, _|4|99|88|121|101|1|101
+9|1|1|1, 8, 4, 27, 9,  ?|4|8|9|64|16|1|64
+10|1|1|3, 6, 8, 16, 18, _|4|28|36|54|34|1|36
+11|1|1|17, 13, 11, 7, 5, ?|4|-1|1|0|2|1|1
+12|1|1|9, _ , 18, 28, 27, 21, 36, 14|4|30|35|23|40|1|35
+13|1|1|4, 9, 19, 39, _|4|49|79|89|59|1|79
+14|1|1|0, 7, 26, 63, _|4|124|125|93|103|1|124
+15|1|1|3, 2, 7, 6, 11, _|4|13|8|4|10|1|10
+16|1|1|17, 44, 62, 53, _|4|66|26|29|63|1|26
+17|1|1|5, 3, 6, 2, 7, 1, _|4|2|3|4|8|1|8
+18|1|1|1, 2, 3, 1, 4, 9, 1, _ , 27|4|5|4|16|8|1|8
+19|1|1|81 , 9, 64 , 8, _ , 12|4|97|144|96|100|1|144
+20|1|1|2, 6, 12, 20, 30|4|40|44|42|36|1|42
+21|1|1|7, 13, 17, 19, _|4|21|29|23|31|1|23
+22|1|1|2, 20, 74, 110, _|4|182|110|120|160|1|182
+23|1|1|3, 5, 9, 17, 33, _|4|44|65|64|49|1|65
+24|1|1|3, 6, 6, 12, _ , 18|4|9|72|81|38|1|9
+25|1|1|5, 3, 8, 11, _ , 30|4|13|17|19|38|1|19
+26|1|1|4, 3, 12, 9, 2, 18, 3, _ , 21|4|5|4|3|7|1|7
+27|1|1|78, 65, 75, 62, 72, _|4|61|65|64|59|1|59
+28|1|1|6, 5, 24, 25, 144, _|4|155|160|170|175|1|175
+29|1|1|60, 30, 120, 15, 240, _|4|30|120|240|7.5|1|7.5
+30|1|1|6, 24, 60, 120, 336, _|4|270|240|210|336|1|336
+31|1|1|A and B together can complete a piece of work in 35 days while A alone can complete the same work in 60 days. B alone will be able to complete|4|84 Days|23 Days|93 Days|76 Days|1|84 Days
+32|1|1|Worker A takes 8 hours to do a job. Worker B takes 10 hours to do the same Job.How long should it take both A and B, working together but independently, to do the same job?|4|32/7|12|40/9|23/4|1|40/9
+33|1|1|A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in?|4|48/5|38/5|64/5|23/5|1|48/5
+34|1|1|A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is?|4|3/11|2|8/15|12/5|1|8/15
+35|1|1|A man can do a piece of work in 5 days, but with the help pf his son, he can do it in 3 days. In what time can the son do it alone?|4|15/2|16/3|6|9|1|15/2
+
